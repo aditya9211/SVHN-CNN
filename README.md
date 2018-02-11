@@ -15,12 +15,13 @@
 
 
 
-**Dataset is obtained from house numbers in Google Street View images.** 
+Dataset is obtained from house numbers in Google Street View images. 
 
-```
+
 Here we are classifying 32 x 32 cropped images given in format 2 
+
 Using CNN architecture.
-```
+
 [Train_32x32](http://ufldl.stanford.edu/housenumbers/train_32x32.mat)                     
 [Test_32x32](http://ufldl.stanford.edu/housenumbers/test_32x32.mat)
 
