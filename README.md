@@ -25,9 +25,9 @@ Much similar to MNIST(images of cropped digits), but SVHN contains much more lab
 
 ### Scripts
 
-   `data_preprocess.ipynb: preprcess the data`
+   - data_preprocess.ipynb: preprcess the data
    
-   `svhn_model.ipynb: run the model and report results`
+   - svhn_model.ipynb: run the model and report results
     
 ### Added 
  ```
